@@ -15,7 +15,6 @@ public class newK {
                 System.out.println(i);
             }
         }
-
     }
 
 
